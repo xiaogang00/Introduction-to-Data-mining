@@ -19,6 +19,7 @@ This is the project which I taken in the third year of my college life.
   * Collaborative Filter
   * SVD
   * KNN
+  * DeepCF re-implemented (the code and the result is in the file of code2)
 
   ​
 
@@ -27,3 +28,5 @@ This is the project which I taken in the third year of my college life.
   * J. Breese, D.. Heckerman, and C. Kadie, Empirical analysis of predictive algorithms for collaborative filtering, Proc. Conf. Uncertainty in Artificial Intelligence, (UAI98) 1998
   * J.L. Herlocker, J.A. Konstan, J.R.A. Borchers, and J. Riedl, An algorithmic framework for performing collaborative filtering, Proc. International on ACM SIGIR Research and Development in Information Retrieval, (SIGIR98) 1998
   * Probabilistic Matrix Factorization
+
+    ​
