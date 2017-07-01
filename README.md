@@ -12,14 +12,16 @@ This is the project which I taken in the third year of my college life.
 
 * The file of **data** contain the train data offered.
 
-* The file of **code** contain the python code which I written to implement this project.
+* The file of **code** contain the python code of CF, SVD, KNN, which I written to implement this project.
+
+* The file of **code2** contain the python code of DeepCF, which is implement by the dual network.
 
 * The method I used to complete this project is following:
 
   * Collaborative Filter
   * SVD
   * KNN
-  * DeepCF re-implemented (the code and the result is in the file of code2)
+  * DeepCF
 
   ​
 
